@@ -1,0 +1,4 @@
+Olá (cliente)! Este é um lembrete amigável de que você tem um agendamento conosco amanhã (data).
+Estamos ansiosos para te receber em nosso espaço às (horario).
+Se precisar reagendar ou tiver alguma dúvida, por favor, avise-nos com antecedência.
+Até amanhã!
